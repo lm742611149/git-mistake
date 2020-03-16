@@ -1,7 +1,7 @@
 // app.js
 function hello() {
   alert("hello world git1");
-  alert("test");
+  alert("hi from github");
 }
 
 function helloworld() {
