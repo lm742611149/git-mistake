@@ -12,3 +12,4 @@ function helloworld() {
 function secondFunc() {
   alert("second function");
 }
+function branch() {}
