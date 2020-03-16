@@ -7,3 +7,7 @@ function hello() {
 function helloworld() {
   alert("hi");
 }
+
+function secondFunc() {
+  alert("second function");
+}
