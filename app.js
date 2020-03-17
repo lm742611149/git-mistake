@@ -1,4 +1,5 @@
 // app.js
+// test branch
 function hello() {
   alert("hello world git1");
   alert("hi from github");
@@ -12,3 +13,4 @@ function helloworld() {
 function secondFunc() {
   alert("second function");
 }
+function branch() {}
